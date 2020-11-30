@@ -66,6 +66,9 @@ MIT
 @angular/router
 MIT
 
+@ngxs/form-plugin
+MIT
+
 @ngxs/logger-plugin
 MIT
 
