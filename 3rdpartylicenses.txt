@@ -97,6 +97,9 @@ MIT
 @ngxs/logger-plugin
 MIT
 
+@ngxs/storage-plugin
+MIT
+
 @ngxs/store
 MIT
 
